@@ -4,5 +4,7 @@
 			"path": "../kadai_005"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
 }
